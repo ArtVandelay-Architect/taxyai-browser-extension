@@ -1,0 +1,105 @@
+{
+    "os": "Linux-6.2.6-76060206-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-05-22T03:45:34.407359",
+    "startedAt": "2023-05-22T03:45:34.047988",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/lukeli/Documents/Codes/taxyai-browser-extension/src/helpersPY/wandbLogger.py",
+    "codePath": "src/helpersPY/wandbLogger.py",
+    "git": {
+        "remote": "https://github.com/ArtVandelay-Architect/taxyai-browser-extension.git",
+        "commit": "956e92d3fc662c2deb93b18fdbd4c70409e61dd7"
+    },
+    "email": "zixinlukeli@foxmail.com",
+    "root": "/home/lukeli/Documents/Codes/taxyai-browser-extension",
+    "host": "lukesmegapc",
+    "username": "lukeli",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 1141.5330000000001,
+        "min": 800.0,
+        "max": 5600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1297.383,
+            "min": 800.0,
+            "max": 5600.0
+        },
+        {
+            "current": 1246.93,
+            "min": 800.0,
+            "max": 5600.0
+        },
+        {
+            "current": 800.065,
+            "min": 800.0,
+            "max": 5600.0
+        },
+        {
+            "current": 1178.774,
+            "min": 800.0,
+            "max": 5600.0
+        },
+        {
+            "current": 1021.689,
+            "min": 800.0,
+            "max": 5600.0
+        },
+        {
+            "current": 1280.751,
+            "min": 800.0,
+            "max": 5600.0
+        },
+        {
+            "current": 1235.594,
+            "min": 800.0,
+            "max": 5600.0
+        },
+        {
+            "current": 859.064,
+            "min": 800.0,
+            "max": 5600.0
+        },
+        {
+            "current": 1285.649,
+            "min": 800.0,
+            "max": 5600.0
+        },
+        {
+            "current": 1480.689,
+            "min": 800.0,
+            "max": 5600.0
+        },
+        {
+            "current": 1256.497,
+            "min": 800.0,
+            "max": 5600.0
+        },
+        {
+            "current": 969.864,
+            "min": 800.0,
+            "max": 5600.0
+        }
+    ],
+    "disk": {
+        "total": 1823.8397521972656,
+        "used": 542.1440811157227
+    },
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 15.471542358398438
+    }
+}
